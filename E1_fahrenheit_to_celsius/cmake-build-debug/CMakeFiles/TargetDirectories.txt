@@ -1,0 +1,3 @@
+C:/Users/ALEJANDRO/Documents/GitHub/learn-c-plus-plus/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/learn_c_plus_plus.dir
+C:/Users/ALEJANDRO/Documents/GitHub/learn-c-plus-plus/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ALEJANDRO/Documents/GitHub/learn-c-plus-plus/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/rebuild_cache.dir

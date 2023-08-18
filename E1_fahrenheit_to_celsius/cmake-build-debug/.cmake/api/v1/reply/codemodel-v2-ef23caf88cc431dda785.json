@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "learn_c_plus_plus",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "learn_c_plus_plus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn_c_plus_plus-Debug-38302012352262497b1c.json",
+					"name" : "learn_c_plus_plus",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ALEJANDRO/Documents/GitHub/learn-c-plus-plus/E1_fahrenheit_to_celsius/cmake-build-debug",
+		"source" : "C:/Users/ALEJANDRO/Documents/GitHub/learn-c-plus-plus/E1_fahrenheit_to_celsius"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
