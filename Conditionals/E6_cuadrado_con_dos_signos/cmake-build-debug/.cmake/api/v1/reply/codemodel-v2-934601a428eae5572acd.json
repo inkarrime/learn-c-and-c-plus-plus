@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "E5_triangulo_reverso",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "E5_triangulo_reverso::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E5_triangulo_reverso-Debug-615c9977317b9a0baee1.json",
+					"name" : "E5_triangulo_reverso",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ALEJANDRO/Documents/GitHub/learn-c-plus-plus/Conditionals/E5_triangulo_reverso/cmake-build-debug",
+		"source" : "C:/Users/ALEJANDRO/Documents/GitHub/learn-c-plus-plus/Conditionals/E5_triangulo_reverso"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

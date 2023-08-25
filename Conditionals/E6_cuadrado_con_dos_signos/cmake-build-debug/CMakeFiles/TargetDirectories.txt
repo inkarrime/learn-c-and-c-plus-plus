@@ -1,0 +1,3 @@
+C:/Users/ALEJANDRO/Documents/GitHub/learn-c-plus-plus/Conditionals/E5_triangulo_reverso/cmake-build-debug/CMakeFiles/E5_triangulo_reverso.dir
+C:/Users/ALEJANDRO/Documents/GitHub/learn-c-plus-plus/Conditionals/E5_triangulo_reverso/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ALEJANDRO/Documents/GitHub/learn-c-plus-plus/Conditionals/E5_triangulo_reverso/cmake-build-debug/CMakeFiles/rebuild_cache.dir
