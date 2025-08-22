@@ -3,14 +3,19 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated />
+    <generated>
+      <config projectName="learn-c-and-c-plus-plus" targetName="S1" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -18,7 +23,190 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1758cf36-b762-40cf-ad33-fa5616d507d5" name="Changes" comment="" />
+    <list default="true" id="1758cf36-b762-40cf-ad33-fa5616d507d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/E2_travel_ticket.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1/E4_hotel_habitaciones.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/.idea/Conditionals.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/.idea/E3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" afterPath="$PROJECT_DIR$/S1/E1_circle_area.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/.cmake/api/v1/reply/cache-v2-556ad51849f4a905898e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-48d9c6062fd3f4b9a2ff.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-e74bfbbf77be7d1ef471.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/.cmake/api/v1/reply/index-2023-08-25T12-42-50-0706.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/.cmake/api/v1/reply/target-Conditionals-Debug-db372ae7711ad62416a2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-e342d7331276a330d3bb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/CMakeFiles/Conditionals.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/Conditionals.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E3/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E4_triangulo/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/.idea/E5_triangulo_reverso.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b86da3cc1b3b74ea3ae8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-e4c7031214e7f83d4ecd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-934601a428eae5572acd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/.cmake/api/v1/reply/index-2023-08-25T13-34-38-0852.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/.cmake/api/v1/reply/target-E5_triangulo_reverso-Debug-615c9977317b9a0baee1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-e342d7331276a330d3bb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/CMakeFiles/E5_triangulo_reverso.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/E5_triangulo_reverso.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_cuadrado_con_dos_signos/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/.idea/E6_rectangulos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a80396d8b10601f1757d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-593a7e0f003e72a25cb5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-073caf2a14d74c4fd066.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/.cmake/api/v1/reply/index-2023-08-25T13-30-35-0210.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/.cmake/api/v1/reply/target-E6_rectangulos-Debug-d25115ff23f797821d79.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-e342d7331276a330d3bb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/E6_rectangulos/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditionals/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/.idea/E1_fahrenheit_to_celsius.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/.cmake/api/v1/reply/cache-v2-3310224f5d5463f5bb98.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-8f044d63710ef61bc7ad.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ef23caf88cc431dda785.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/.cmake/api/v1/reply/index-2023-08-18T13-54-13-0349.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/.cmake/api/v1/reply/target-learn_c_plus_plus-Debug-38302012352262497b1c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-e342d7331276a330d3bb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/learn_c_plus_plus.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/cmake-build-debug/learn_c_plus_plus.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E1_fahrenheit_to_celsius/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/S1/E8_fahrenheit_to_celsius.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,39 +219,73 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;inkarrime&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:inkarrime/learn-c-and-c-plus-plus.git&quot;,
+    &quot;accountId&quot;: &quot;629f7ba0-3a78-4d99-98c2-5dc102208209&quot;
+  }
+}</component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2023" />
     <option name="minorVersion" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": -1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2U9yEnYlBJ6S9m4L2e2HvIT7vyi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectStatusUIService"><![CDATA[{
+  "uiKindId": "Widget"
+}]]></component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "CMake Application.S1.executor": "Run",
+    "CMake Application.learn-c-and-plus-plus.executor": "Run",
+    "CMake Application.s1_colores_todos.executor": "Run",
+    "CMake Debug.GitHub.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/ALEJANDRO/Documents/GitHub/learn-c-plus-plus/E1_fahrenheit_to_celsius",
+    "ignore_missing_gitignore": "true",
+    "last_opened_file_path": "C:/Users/ALEJANDRO/Documents/GitHub/learn-c-and-c-plus-plus",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ALEJANDRO\Documents\GitHub\learn-c-and-c-plus-plus\S1" />
+      <recent name="C:\Users\ALEJANDRO\Documents\GitHub\learn-c-and-c-plus-plus" />
+      <recent name="C:\Users\ALEJANDRO\Documents\GitHub\learn-c-and-c-plus-plus\S1\circle_area" />
       <recent name="C:\Users\ALEJANDRO\Documents\GitHub\learn-c-plus-plus\E1_fahrenheit_to_celsius" />
     </key>
   </component>
@@ -71,6 +293,11 @@
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="learn-c-and-c-plus-plus" TARGET_NAME="S1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="learn-c-and-c-plus-plus" RUN_TARGET_NAME="S1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -83,6 +310,8 @@
       <option name="presentableId" value="Default" />
       <updated>1692365982431</updated>
       <workItem from="1692365984232" duration="849000" />
+      <workItem from="1755867131602" duration="836000" />
+      <workItem from="1755868049134" duration="2166000" />
     </task>
     <servers />
   </component>
@@ -90,9 +319,8 @@
     <option name="version" value="3" />
   </component>
   <component name="VCPKGProject">
-    <isAutomaticEditVcpkgJson value="false" />
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
-    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
   </component>
 </project>

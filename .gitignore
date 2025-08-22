@@ -1,0 +1,23 @@
+# Ignorar CMakeLists.txt
+CMakeLists.txt
+
+# Ignorar directorios de build de CMake
+cmake-build-debug/
+cmake-build-release/
+build/
+
+# Ignorar archivos generados por CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Ignorar ejecutables de Windows
+*.exe
+
+# Ignorar archivos objeto
+*.o
+*.obj
+
+# Ignorar archivos de IDEs comunes
+.idea/

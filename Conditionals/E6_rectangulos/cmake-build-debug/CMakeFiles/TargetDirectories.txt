@@ -1,3 +1,0 @@
-C:/Users/ALEJANDRO/Documents/GitHub/learn-c-plus-plus/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/E6_rectangulos.dir
-C:/Users/ALEJANDRO/Documents/GitHub/learn-c-plus-plus/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ALEJANDRO/Documents/GitHub/learn-c-plus-plus/Conditionals/E6_rectangulos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
