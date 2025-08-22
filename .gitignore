@@ -16,6 +16,7 @@ Makefile
 *.exe
 
 # Ignorar archivos objeto
+*.exe
 *.o
 *.obj
 
