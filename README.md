@@ -111,6 +111,16 @@ Escriba un código que calcule el consumo de electricidad en soles dado el consu
 - Si el consumo es menor o igual a 100 kW, el kW cuesta 0.4522 Soles
 - Si el consumo es mayor que 100 kW, se aplica la tarifa anterior hasta 100 kW y 0.7 Soles por kW para el consumo sobre 100 kW
 
+### Distancia entre dos puntos
+Escriba un codigo que calcule la distancia entre dos puntos. Los puntos tienen las coordenadas (x1,y1) y (x2,y2); y la distancia está dada por la fórmula:
+```
+Distancia = ((x2-x1)^2+(y2-y1)^2)^(1/2)
+```
+### Suma de dos angulos
+Escriba un codigo que calcule la suma de dos angulos. El usuario debe ingresar los angulos en grados, minutos y segundos.
+
+El codigo debe imprimir los angulos y el resultado.
+
 ### Ángulo entre las manecillas de un reloj
 Implemente un programa en C++ que, dado un tiempo expresado en formato de 24 horas
 (hh:mm), calcule y muestre el ángulo más pequeño (en grados) formado entre la manecilla de las
