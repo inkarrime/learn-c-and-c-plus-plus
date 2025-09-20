@@ -61,19 +61,21 @@ piso: 7
 ala: 3
 habitacion: D
 ```
-### a
+### Parte entera y fraccionaria de un float
 Realiza un programa que permita leer un numero float y el programa imprima en una linea la parte entera del numero y en la linea siguiente la parte fraccionaria del numero.
 ```
 Ingresa un float: 14.8765
 Parte entera: 14
 Parte fraccionaria: 0.8765
 ```
-### 6
+
+### 
 Realiza un programa que genere una variable a, cuyo valor es el tamano de una variable booleana. Haga lo mismo para los tipos short, int, long, float, double, char. Encuentre la forma adecuada de evaluar el tamano de un string.
 ```
 Ingresa un booleano: 0
 Tamano del booleano es 1
 ```
+
 ### 7
 Desarrolle un programa C++, que permita imprimir la informacion de tipos de variables en C++:
 ![img.png](0_Assets/img-3.png)
@@ -161,7 +163,7 @@ Escribir un programa que permita leer un número entero que podría tener los va
 
 1 Otoño 2 Invierno 3 Primavera 4 Verano Ahora cambie los enteros por char, con las opciones ‘p’, ‘v’, ‘o’, ‘i’
 
-### E1 Ángulo entre las manecillas de un reloj
+### Ángulo entre las manecillas de un reloj
 Implemente un programa en C++ que, dado un tiempo expresado en formato
 de 24 horas (hh:mm), calcule y muestre el ángulo más pequeño (en grados)
 formado entre la manecilla de las horas y la manecilla de los minutos en

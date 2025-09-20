@@ -27,8 +27,8 @@ int main() {
         }
         diasTranscurridos += diasMes;
     }
-
     diasTranscurridos += dia - 1;
+
     int diaBase = 2;
     int diaSemana = (diaBase + diasTranscurridos) % 7;
 
