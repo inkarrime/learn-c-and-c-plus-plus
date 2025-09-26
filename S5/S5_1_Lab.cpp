@@ -1,5 +1,23 @@
 #include <iostream>
 using namespace std;
+double calculadora(char op, int *pNum1, int *pNum2);
+
+int main() {
+    int num1, num2;
+    char operador;
+
+    cout << "Ingrese que operacion vas a realizar (+, -, *, /): ";
+    cin >> operador;
+    cout << "Ingrese primer numero: ";
+    cin >> num1;
+    cout << "Ingrese segundo numero: ";
+    cin >> num2;
+
+    double resultado = calculadora(operador, &num1, &num2);
+    cout << "Resultado: " << resultado << endl;
+
+    return 0;
+}
 
 double calculadora(char op, int *pNum1, int *pNum2) {
     switch(op) {
@@ -20,21 +38,4 @@ double calculadora(char op, int *pNum1, int *pNum2) {
             cout << "Operador no válido" << endl;
             return 0;
     }
-}
-
-int main() {
-    int num1, num2;
-    char operador;
-
-    cout << "Ingrese que operacion vas a realizar (+, -, *, /): ";
-    cin >> operador;
-    cout << "Ingrese primer número: ";
-    cin >> num1;
-    cout << "Ingrese segundo número: ";
-    cin >> num2;
-
-    double resultado = calculadora(operador, &num1, &num2);
-    cout << "Resultado: " << resultado << endl;
-
-    return 0;
 }
