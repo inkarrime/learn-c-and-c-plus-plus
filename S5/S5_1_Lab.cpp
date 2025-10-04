@@ -19,7 +19,7 @@ int main() {
     return 0;
 }
 
-double calculadora(char op, int *pNum1, int *pNum2) {
+double calculadora(char op, int* pNum1, int* pNum2) {
     switch(op) {
         case '+':
             return *pNum1 + *pNum2;
