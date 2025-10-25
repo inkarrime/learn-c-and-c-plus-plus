@@ -9,7 +9,7 @@ V = (4/3)*(PI)*(r)^3
 ```
 ### Ticket
 Desarrolle un programa en C++, que permita imprimir la informacion tal y como se muestra en la siguiente imagen:
-![img.png](0_Assets/img.png)
+![img.png](0_assets/img.png)
 ### Empaquetar paquetes de colores
 Tai Loy, ha decidido empaquetar en sus bodegas colores, en cajas de 6, 12 y 24 unidades. De tal manera que reducirá sus costos al ser ellos mismos quienes realicen el empaque de colores.
 
@@ -33,7 +33,7 @@ Si se ingresa 498 el programa indicara que se necesitara:
 ```
 ### Distribucion de habitaciones
 El hotel "Colca In", tiene 84 habitaciones, distribuidas en 7 pisos. Cada piso tiene 3 Alas y en cada Ala hay 4 habitaciones numeradas con las letras A, B, C y D. De tal manera que por cada piso el hotel tiene 12 habitaciones. Tal y como se puede apreciar en la figura:
-![img_1.png](0_Assets/img_1.png)
+![img_1.png](0_assets/img_1.png)
 
 Escriba un programa que permita ingresar un numero entre 1 y 84, e indique a que piso, que ala y que habitacion corresponde.
 El usuario siempre debe ingresar un numero entre 1 y 84.
@@ -78,7 +78,7 @@ Tamano del booleano es 1
 
 ### 7
 Desarrolle un programa C++, que permita imprimir la informacion de tipos de variables en C++:
-![img.png](0_Assets/img-3.png)
+![img.png](0_assets/img-3.png)
 ### Fahrenheit to Celsius
 En el siguiente programa se desea convertir grados Fahrenheit a grados Celsius.
 
@@ -89,7 +89,7 @@ C/5 = (F-32)/9
 En la solucion que se muestra a continuacion, hay un error de logica. Podrias encontrar el error?
 ### Radians to Grades
 Escriba un codigo que transforme un numero en radianes a un numero en grados sexagesimales.
-![img.png](0_Assets/img-4.png)
+![img.png](0_assets/img-4.png)
 Recuerde que pi radianes equivale a 180 grados sexagesimales, donde pi=3.14159
 
 ### Three floats numbers
