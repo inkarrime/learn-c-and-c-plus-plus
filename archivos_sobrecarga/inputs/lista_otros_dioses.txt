@@ -1,0 +1,13 @@
+Pleytone,,,,Oceano y Tetis,
+Metis,,,,Oceano y Tetis,
+Asia,Climene,,,Oceano y Tetis,
+Electra,,,,Oceano y Tetis,
+Eos,,,,Hiperion y Teia,
+Helios,,,,Hiperion y Teia,dios del Sol
+Selene,,,,Hiperion y Teia,diosa de la Luna
+Leto,,,,Ceo y Febe,
+Asteria,,,,Ceo y Febe,
+Atlas,Atlante,,,Japeto y Asia,
+Prometeo,,,,Japeto y Asia,
+Epimeteo,,,,Japeto y Asia,
+Pandora,,,,Japeto y Asia,
