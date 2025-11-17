@@ -34,8 +34,8 @@ void imprimir(vector<int> vec) {
         cout << elem << " ";
     }
 }
-void imprimir_inverso(vector<int> vec) {
+<void imprimir_inverso(vector<int> vec) {
     for (int i=vec.size()-1; i >=0; i--) {
         cout << vec[i] << " ";
     }
-}
+}>
